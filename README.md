@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Serkhan.React Developer
--⚡Skills: React,Redux Toolkit,Js,MySQL,nodeJS,Sass
+-⚡Skills: React,Redux Toolkit,Js,Sass,FP,MUI
 
 <!--
 **southsidescript/southsidescript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
