@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Serkhan.Software developer
--⚡Skills: React,Next js,Sass,FP,MUI,Mongo & Postgres,NodeJs
+- Founder of EyeCode Eniversity
 DemoAccount
 
 <!--
