@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am Serkhan.Software developer
-- Founder of EyeCode Eniversity
+###### I am Serkhan.Software developer⚡Founder of EyeCode University
 DemoAccount
 
 <!--
