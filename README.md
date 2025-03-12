@@ -1,6 +1,6 @@
 ### Hi there 👋
 ###### I am Serkhan.⚡Founder of EyeCode University
-Welcome to EyeCode University. University of the future
+Welcome to EyeCode University. University of the future.
 Official github account of EyeCode.
 
 <!--
