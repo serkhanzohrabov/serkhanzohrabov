@@ -1,7 +1,7 @@
-### Hi there 👋
+### EyeCode University 🏛️
 ###### I am Serkhan.⚡Founder of EyeCode University
 Welcome to EyeCode University. University of the future.
-Official github account of EyeCode.
+Official github account.
 
 <!--
 **southsidescript/southsidescript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
