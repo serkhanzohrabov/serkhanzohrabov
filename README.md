@@ -3,7 +3,7 @@
 Welcome to EyeCode University. University of the future.
 Official github account. 
 📫eyecode.academy@gmail.com
-🌍https://www.eyecodeuniversity.ru 
+🌍https://www.eyecodeuniversity.ru  
 
 <!--
 **southsidescript/southsidescript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
