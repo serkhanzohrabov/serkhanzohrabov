@@ -4,7 +4,7 @@ Welcome to EyeCode University. University of the future.
 <p>Eyecode international university invites you to intensive programming training and building your career in Computer Science </p>
 <p>We have representatives of more than 5 countries.Start your journey to IT with us.</p>
 Official github account. 
-
+&copy 2025
 
 
 
