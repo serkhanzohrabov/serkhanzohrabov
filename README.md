@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👁️+Eyecode+University+🏛️;International+Digital+University;Learn+Code.+Build+Future.;Cyber+Mindset+🌐" alt="Typing SVG" />
+</div>
+<div align="center">
 
   <h1 style="font-size: 28px; margin: 10px 0;">Eyecode University 🏛️ </h1>
   <p>🌐 Welcome to the <b>International Digital University</b></p>
