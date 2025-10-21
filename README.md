@@ -1,6 +1,9 @@
-# Eyecode University 🏛️
+<div align="center">
+  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
+  <h1 style="font-size: 28px; margin: 10px 0;"> Eyecode University 🏛️</h1>
+  <p>Welcome to the International Digital University</p>
+</div>
 ###### I am Serkhan Zohrabov.⚡Founder of EyeCode University
-Welcome to EyeCode University. University of the future.
 <p>Eyecode international university invites you to intensive programming training and building your career in Computer Science </p>
 <p>We have representatives of more than 5 countries.Start your journey to IT with us.</p>
 Official github account. 
