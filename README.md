@@ -23,7 +23,7 @@ Start your journey to IT with us 🚀</p>
 ## 🏆 Achievements
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=serkhanzohrabov&theme=onedark&no-bg=true&no-frame=true&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=serkhanzohrabov&theme=oldie&no-bg=true&no-frame=true&margin-w=10)
 
 </div>
 
