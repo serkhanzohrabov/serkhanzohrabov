@@ -1,14 +1,7 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👁️+Eyecode+University+🏛️;International+Digital+University;Learn+Code.+Build+Future.;Cyber+Mindset+🌐" alt="Typing SVG" />
-</div>
-
----
 
 <div align="center">
   <img src="https://i.imgur.com/0aR5VZw.gif" width="100%" alt="Cyberpunk banner" />
 </div>
-
----
 
 <div align="center">
 
@@ -17,9 +10,9 @@
 
 </div>
 
----
 
-### 👨‍🚀 I am Serkhan Zohrabov — Founder of EyeCode University
+
+###  I am Serkhan Zohrabov — Founder of Eyecode University
 
 > 💬 “We code for vision. We build for the future.”
 
