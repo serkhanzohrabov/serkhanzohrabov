@@ -18,13 +18,13 @@ Start your journey to IT with us 🚀</p>
 ## 🏆 Achievements
 <div align="center">
 
-![Trophies](  https://github-profile-trophy.vercel.app/?username=serkhanzohrabov&theme=aura&hide_border=true)
+![Trophies](  https://github-profile-trophy.vercel.app/?username=serkhanzohrabov&theme=aura&no-frame=true)
 
 </div>
 
 
 
-##  Connect With Us
+##  Contacts
 
 🌍 [**eyecodeuniversity.ru**](https://www.eyecodeuniversity.ru)  
 📫 **eyecode.academy@gmail.com**
