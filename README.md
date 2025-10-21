@@ -17,18 +17,6 @@
 Start your journey to IT with us 🚀</p>
 
 
-## 🛰️ Tech Universe
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00FFFF)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=3C873A)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=2965f1)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00FFFF)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
-
-
 ## 🏆 Achievements
 <div align="center">
   
@@ -38,7 +26,7 @@ Start your journey to IT with us 🚀</p>
 
 ---
 
-## 🌐 Connect With Us
+##  Connect With Us
 
 🌍 [**eyecodeuniversity.ru**](https://www.eyecodeuniversity.ru)  
 📫 **eyecode.academy@gmail.com**
