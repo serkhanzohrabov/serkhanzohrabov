@@ -14,11 +14,6 @@
 <p>🌍 We have representatives from over <b>5 countries</b>.  
 Start your journey to IT with us 🚀</p>
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=serkhanzohrabov&theme=react-dark&hide_border=true&area=true&color=00FFFF&line=00FFFF)
-
-</div>
 
 ## 🏆 Achievements
 <div align="center">
