@@ -5,12 +5,8 @@
 
 </div>
 
-###  I am Serkhan Zohrabov — Founder of Eyecode University
-
-
-
+ I am Serkhan Zohrabov — Founder of Eyecode University
 <p>Eyecode International University invites you to intensive programming training and career building in <b>Computer Science</b> 💻</p>
-
 <p>🌍 We have representatives from over <b>5 countries</b>.  
 Start your journey to IT with us</p>
 
