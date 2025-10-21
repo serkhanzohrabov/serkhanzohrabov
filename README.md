@@ -16,7 +16,7 @@ Start your journey to IT with us 🚀</p>
 
 <div align="center">
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=serkhanzohrabov&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=serkhanzohrabov&theme=react-dark&hide_border=true&area=true&color=00FFFF&line=00FFFF)
+
 
 </div>
 
