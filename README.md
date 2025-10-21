@@ -22,6 +22,16 @@ Start your journey to IT with us</p>
 
 </div>
 
+<div align="center">
+
+![Metrics](https://github.com/serkhanzohrabov/serkhanzohrabov/blob/main/github-metrics.svg)
+
+<!-- Backup Stats (in case Metrics not used) -->
+![Stats](https://github-readme-stats.vercel.app/api?username=serkhanzohrabov&show_icons=true&theme=tokyonight&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serkhanzohrabov&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=serkhanzohrabov&theme=tokyonight&hide_border=true)
+
+</div>
 
 
 ##  Contacts
