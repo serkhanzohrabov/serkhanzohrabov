@@ -7,7 +7,7 @@
 
 ###  I am Serkhan Zohrabov — Founder of Eyecode University
 
-> 💬 “We code for vision. We build for the future.”
+
 
 <p>Eyecode International University invites you to intensive programming training and career building in <b>Computer Science</b> 💻</p>
 
