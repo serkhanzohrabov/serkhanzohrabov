@@ -5,8 +5,6 @@
 
 </div>
 
-
-
 ###  I am Serkhan Zohrabov — Founder of Eyecode University
 
 > 💬 “We code for vision. We build for the future.”
@@ -29,7 +27,7 @@ Start your journey to IT with us 🚀</p>
 
 </div>
 
----
+
 
 ##  Connect With Us
 
@@ -45,7 +43,7 @@ Start your journey to IT with us 🚀</p>
 
 </div>
 
----
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=serkhanzohrabov&style=for-the-badge&color=00FFFF" alt="Profile Views"/>
