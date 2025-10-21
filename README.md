@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 style="font-size: 28px; margin: 10px 0;"> ⚡ Eyecode University 🏛️ </h1>
+  <h1 style="font-size: 28px; margin: 10px 0;">Eyecode University 🏛️ </h1>
   <p>🌐 Welcome to the <b>International Digital University</b></p>
 
 </div>
