@@ -1,8 +1,3 @@
-
-<div align="center">
-  <img src="https://i.imgur.com/0aR5VZw.gif" width="100%" alt="Cyberpunk banner" />
-</div>
-
 <div align="center">
 
   <h1 style="font-size: 28px; margin: 10px 0;"> ⚡ Eyecode University 🏛️ </h1>
