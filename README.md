@@ -40,19 +40,6 @@ Start your journey to IT with us 🚀</p>
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00FFFF)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 🌌 GitHub Universe Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=serkhanzohrabov&show_icons=true&theme=tokyonight&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serkhanzohrabov&layout=compact&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=serkhanzohrabov&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🏆 Achievements
 <div align="center">
@@ -76,11 +63,6 @@ Start your journey to IT with us 🚀</p>
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/serkhanzohrabov)
 
 </div>
-
----
-
-## 💬 Quote of the Day
-> “The future belongs to those who code it.” — *Eyecode University Motto*
 
 ---
 
