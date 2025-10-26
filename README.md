@@ -11,14 +11,6 @@
 Start your journey to IT with us</p>
 
 
-## 🏆 Achievements
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=aura)
-
-</div>
-
-
 ##  Contacts
 
 🌍 [**eyecodeuniversity.ru**](https://www.eyecodeuniversity.ru)  
