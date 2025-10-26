@@ -14,7 +14,7 @@ Start your journey to IT with us</p>
 ## 🏆 Achievements
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=serkhanzohrabov&theme=aura)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=aura)
 
 </div>
 
