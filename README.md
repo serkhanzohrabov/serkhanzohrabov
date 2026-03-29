@@ -30,5 +30,5 @@ Start your journey to IT with us</p>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=serkhanzohrabov&style=for-the-badge&color=00FFFF" alt="Profile Views"/>
   <br/>
-  <sub>© 2025 Eyecode University — All Rights Reserved</sub>
+  <sub>© 2026 Eyecode University — All Rights Reserved</sub>
 </div>
