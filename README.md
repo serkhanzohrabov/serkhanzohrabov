@@ -39,34 +39,11 @@
 
 </div>
 
----
+
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=serkhanzohrabov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0066FF&icon_color=00CCFF&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkhanzohrabov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0066FF&text_color=ffffff"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=serkhanzohrabov&theme=tokyonight&hide_border=true&background=0d1117&stroke=0066FF&ring=0066FF&fire=00CCFF&currStreakLabel=00CCFF)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=serkhanzohrabov&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Сообщество
+##  Сообщество
 
 🇺🇿 &nbsp; 🇦🇿 &nbsp; 🇷🇺 &nbsp; 🇩🇪 &nbsp; 🇺🇸
 
