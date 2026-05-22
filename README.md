@@ -20,8 +20,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ## ✦ О нас
@@ -56,7 +54,6 @@
 
 </div>
 
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CCFF,100:0066FF&height=120&section=footer&animation=fadeIn" width="100%"/>
 
