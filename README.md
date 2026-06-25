@@ -60,7 +60,9 @@
 <div align="center">
 <sub>© 2026 Eyecode University — All Rights Reserved · Built with ❤️ for future developers</sub>
 </div>
-
+<div align="center">
+<a href="https://trendshift.io/repositories/23482?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-23482" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/23482" alt="Egonex-AI%2FUnderstand-Anything | Trendshift" width="250" height="55"/></a>
+</div>
 
 <!-- <div align="center">
 
